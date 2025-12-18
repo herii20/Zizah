@@ -59,17 +59,13 @@ video.addEventListener("ended", () => {
 function showBirthdayTyping() {
   // Tambahkan ucapan sebanyak yang kamu mau
   const messages = [
-    "Selamat Ulang Tahun Nurul Azizah",
-    "Adikku Termanis,Tercakep,Ter apalagi yah awkk💖",
+    "Selamat Ulang Tahun"
+    "Nurul Azizah",
+    "Adikku Termanis,Tercakep",
+    "Ter apalagi yah wkwk💖",
     "Semoga hari-harimu selalu bahagia 🎉",
-    "semua impianmu tercapai dan selalu dikelilingi orang-orang baik ✨",
-    "Hari ini adalah hari dimana umurmu bertambah",
-    "Jadiii......",
-    "Jadi apa prokk prokk wkwk",
-    "Jadi harus bertambah juga kesadaran menjadi pribadi yang lebih baik dari sebelumnya",
-    "Lebih dewasa dalam menyelesaikan masalah",
-    "suka menabung dan tidak sombong",
-    "oh iya Kadonya lagi dijalan jadi sabar aja tungguin hehe ",
+    "Dan selalu dikelilingi"
+    "orang-orang baik ✨",
   ];
 
   const container = document.createElement("div");
