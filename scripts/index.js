@@ -64,7 +64,7 @@ function showBirthdayTyping() {
     "Adikku Termanis,Tercakep",
     "Ter apalagi yah wkwk💖",
     "Semoga hari-harimu selalu bahagia 🎉",
-    "Dan selalu dikelilingi"
+    "Dan selalu dikelilingi",
     "orang-orang baik ✨",
   ];
 
