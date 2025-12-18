@@ -59,7 +59,7 @@ video.addEventListener("ended", () => {
 function showBirthdayTyping() {
   // Tambahkan ucapan sebanyak yang kamu mau
   const messages = [
-    "Selamat Ulang Tahun"
+    "Selamat Ulang Tahun",
     "Nurul Azizah",
     "Adikku Termanis,Tercakep",
     "Ter apalagi yah wkwk💖",
